@@ -5,7 +5,7 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-2.6.0-orange)
 
 <p align="center">
-  <img src="/images/image (0).png" alt="AdVise-ML 시스템 아키텍처" width="700">
+  <img src="./images/image (0).png" alt="AdVise-ML 시스템 아키텍처" width="700">
   <br>
   <em>AdVise-ML 시스템 아키텍처</em>
 </p>
@@ -78,7 +78,7 @@ ADVISE-ML/
 AdVise-ML은 광고 추천 문제를 강화학습의 관점에서 접근합니다:
 
 <p align="center">
-  <img src="/images/image (1).png" alt="강화학습 기반 광고 추천 프레임워크" width="700">
+  <img src="./images/image (1).png" alt="강화학습 기반 광고 추천 프레임워크" width="700">
   <br>
   <em>강화학습 기반 광고 추천 프레임워크</em>
 </p>
@@ -342,7 +342,7 @@ AdVise-ML의 DQN 에이전트는 다음과 같은 과정으로 학습합니다:
 8. **타겟 네트워크 업데이트**: 일정 간격으로 정책 네트워크의 가중치를 타겟 네트워크로 복사
 
 <p align="center">
-  <img src="/images/image (2).png" alt="학습 과정 그래프" width="700">
+  <img src="./images/image (2).png" alt="학습 과정 그래프" width="700">
   <br>
   <em>학습 과정: 보상 히스토리, 손실, 입실론 감소</em>
 </p>
@@ -354,7 +354,7 @@ AdVise-ML의 DQN 에이전트는 다음과 같은 과정으로 학습합니다:
 ### 광고 카테고리별 추천 성과
 
 <p align="center">
-  <img src="/images/image (3).png" alt="광고 카테고리별 추천 성과" width="700">
+  <img src="./images/image (3).png" alt="광고 카테고리별 추천 성과" width="700">
   <br>
   <em>광고 카테고리별 추천 비율 및 평균 보상</em>
 </p>
@@ -364,7 +364,7 @@ AdVise-ML의 DQN 에이전트는 다음과 같은 과정으로 학습합니다:
 ### 사용자 특성별 추천 성과
 
 <p align="center">
-  <img src="/images/image (4).png" alt="사용자 특성별 추천 성과" width="700">
+  <img src="./images/image (4).png" alt="사용자 특성별 추천 성과" width="700">
   <br>
   <em>사용자 특성별 평균 보상 분석</em>
 </p>
