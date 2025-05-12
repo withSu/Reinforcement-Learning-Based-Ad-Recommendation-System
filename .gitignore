@@ -29,7 +29,6 @@ venv
 *.pt
 *.toml
 *.json
-*.png
 *.cache
 *.jpeg
 *.pth
